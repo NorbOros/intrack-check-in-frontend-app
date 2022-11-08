@@ -1,0 +1,5 @@
+export const STATUSES = {
+    APPOINTMENT: 'APPOINTMENT',
+    CHECK_IN_FORM: 'CHECK_IN_FORM',
+    NOT_FOUND: 'NOT_FOUND'
+};
