@@ -1,4 +1,4 @@
-# intrack-check-in-frontend-app
+# Check In frontend application
 React application for client Check In.
 
 # Main tech stack
